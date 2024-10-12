@@ -1,1 +1,5 @@
-console.log('test')
+const sum = (a, b) => {
+  return a + b
+}
+
+sum(3, 9)
